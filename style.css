@@ -1,0 +1,59 @@
+
+body {
+    height: 62000px;
+	background-image: linear-gradient(#3959F0,#031264, #04094F, #031264,#3959F0, #39A4F0, #8FC7EE, indianred,#784911,#04094F);
+    background-position: top center;
+    color:white;
+}
+
+.period{
+	text-align: center;
+}
+.period2{
+	text-align: center;
+
+}
+
+h1{
+font-family: 'Anek Odia', sans-serif;
+	font-size: 5rem;
+}
+h2{
+font-family: 'Anek Odia', sans-serif;
+	font-size: 2rem;
+}
+
+.spaceship{
+ position: fixed;
+ bottom: 30px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.number{
+  height: 200%;
+  text-align: center;
+}
+p{
+  position: fixed;
+  left: 49%;
+  bottom: 25px;
+  text-align: center;
+}
+
+.parent {
+  display: flex;
+  height: 100%;
+  margin-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+}
+.timeline{
+	margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 10px;
+}
+
